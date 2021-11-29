@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Zen+Maru+Gothic:wght@400;500&display=swap');
+
+
+body{
+    
+    background: #082032;
+    font-family: 'Zen Maru Gothic', cursive;
+}
+
+.navbar{
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    font-family: 'Bebas Neue';
+    font-size: 1.5rem;
+}
+
+nav a{
+    font-size: 1.5rem;
+}
+
+.kasus-harian{
+    margin-top: 2rem;
+    padding: 1rem;
+    
+}
+
+.box {
+    flex: 1;
+    margin: 3px;
+    padding: 20px 40px;
+    border-radius: 14px;
+    background: rgb(245, 245, 245);
+    -webkit-box-shadow: 11px 6px 16px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px 6px 16px -12px rgba(0,0,0,0.75);
+    box-shadow: 11px 6px 16px -12px rgba(0,0,0,0.75);
+}
+
+.kasus-kecamatan{
+    border-radius: 14px;
+    -webkit-box-shadow: 11px 6px 16px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px 6px 16px -12px rgba(0,0,0,0.75);
+    box-shadow: 11px 6px 16px -12px rgba(0,0,0,0.75);
+}
+
+
